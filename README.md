@@ -47,3 +47,9 @@ print( djdjdj)
 \end{document}
 ![이미지](http://www.example.com/image.jpg)
 
+- 항목 1
+- 항목 2
+   - 하위 항목 1
+   - 하위 항목 2
+- 항목 3
+
