@@ -33,7 +33,6 @@ print("Hello, World!")
 | 셀1   | 셀2   |
 | 셀3   | 셀4   |
 
-
 \documentclass{article}
 
 \begin{document}
