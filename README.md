@@ -40,3 +40,14 @@ print("Hello, World!")
 % 문서 내용 작성
 
 \end{document}
+
+
+\begin{tabular}{|c|c|c|}
+  \hline
+  셀1 & 셀2 & 셀3 \\
+  \hline
+  값1 & 값2 & 값3 \\
+  값4 & 값5 & 값6 \\
+  \hline
+\end{tabular}
+
